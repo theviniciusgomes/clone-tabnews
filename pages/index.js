@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>À minha família toda gratidão, sem vocês não haveria nada bom em mim.</h1>
+    return <h1>Meu presente de Natal será 20 pila para cada um... 😎</h1>
 }
 
 export default Home;
